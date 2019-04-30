@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Aptitude &amp; LR Test</string>
+    <string name="app_name_two">Aptitude &amp; Logical Reasoning Test</string>
+
+    <string name="app_admob_id">ca-app-pub-5341293895006711~5780968936</string>
+    <string name="ad_banner">ca-app-pub-5341293895006711/6030179432</string>
+    <string name="ad_interstitial">ca-app-pub-5341293895006711/1484854791</string>
+
+    <string name="fb_interstitial">235137320513623_235137563846932</string>
+    <string name="fb_banner">235137320513623_235324517161570</string>
+
+    <string name="welcome_dost">Welcome Dost!</string>
+    <string name="todo">TODO</string>
+    <string name="question">Question</string>
+    <string name="_0_10">0/10</string>
+    <string name="timer">Timer</string>
+    <string name="score">Score</string>
+
+    <string name="about_aptitude_test">Aptitude &amp; Logical Reasoning Test</string>
+    <string name="summary_about">This Aptitude &amp; LR Quiz App is developed to make your Aptitude &amp;
+        Reasoning skills better!</string>
+    <string name="app_version">Ver.: 2.2.7</string>
+    <string name="app_email">support@careerdost.in</string>
+    <string name="appreciate_your_time">Thanks for your Time!\n Would you like to Rate Us!</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="help_app_doc">
+        1.  Aptitude and LR (Logical Reasoning) Quiz is now available in 32 different categories divided into Easy and Normal Level.\n
+        2.  Easy Level has 14 questions for a time limit of 7 min with a max of 6 hints option.\n
+        3.  Normal Level has 20 questions for a time limit of 9 min with a max of 8 hints option.\n
+        4.  Solved Examples, Archived Questions and Essential Formulae\'s are also set for easy reference.\n
+        5.	No negative marking.\n
+        6.	Answer will be locked automatically if you don\'t answer after the time expires.\n
+        7.  Hint will also show you how the answer has been solved.\n
+        8.  Result\'s page takes care of how many answers have been correct, incorrect and skipped.\n
+        Best of Luck!
+    </string>
+
+    <string name="aptitude_videos">Aptitude &amp; Reasoning Videos</string>
+    <string name="play_video">Play Video</string>
+    <string name="aptitudeItem">Aptitude &amp; Reasoning</string>
+
+    <string name="outstanding">Outstanding</string>
+    <string name="good_work">Good Work</string>
+    <string name="good_effort">Good Effort</string>
+    <string name="comeon">Come-on. You can do it!</string>
+    <string name="fail">Sorry you didn\'t pass!</string>
+
+    <string name="ctet_logo">CTET Exam 2019 Quiz &amp; Preparation</string>
+    <string name="ctet_rating">\u0020&#8212;\u0020</string>
+    <string name="gkca_logo">GK &amp; Current Affairs Quiz 2018</string>
+    <string name="gkca_rating">4.31</string>
+    <string name="aptitude_logo">Aptitude Test &amp; Logical Reasoning Test</string>
+    <string name="aptitude_rating">4.04</string>
+    <string name="careerdost_logo">CTET 2019 Exam Prep - Quiz</string>
+    <string name="careerdost_rating">4.07</string>
+    <string name="yogafitness_logo">Yoga Fitness Daily - Lose Weight in 30 Days</string>
+    <string name="yogafitness_rating">4.21</string>
+
+    <string name="feedback">Feedback</string>
+    <string name="install">Install</string>
+
+    <string name="share_app">Share App</string>
+    <string name="follow_us">Follow us on</string>
+    <string name="help">App Help</string>
+    <string name="more_videos">More Videos</string>
+    <string name="question_title">Question Title</string>
+    <string name="category_question">Category | Question</string>
+    <string name="answer">Answer</string>
+    <string name="solved">Solved</string>
+    <string name="rate_us">Rate Us!</string>
+    <string name="quit">Quit!</string>
+    <string name="test_your_iq">Test your IQ Score</string>
+    <string name="start_quiz_easy">Start Quiz - Easy Level</string>
+    <string name="start_quiz_normal">Start Quiz - Normal Level</string>
+    <string name="video_examples">Video\nExamples</string>
+    <string name="solved_examples">Solved\nExamples</string>
+    <string name="archived_questions">Archived\nQuestions</string>
+    <string name="important_formulae">Important\nFormulae</string>
+    <string name="about_us">About Us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="sub_yt">Subscribe us on Youtube</string>
+    <string name="like_fb">Like us on FB</string>
+    <string name="follow_tw">Follow us on Twitter</string>
+    <string name="more_apps">More Apps</string>
+    <string name="update_app">Update App</string>
+    <string name="examples_title">Examples Title</string>
+    <string name="category_examples">Category | Examples</string>
+    <string name="formulae_title">Formulae Title</string>
+    <string name="category_formulae">Category | Formulae</string>
+    <string name="option_one">Option 1</string>
+    <string name="option_two">Option 2</string>
+    <string name="option_three">Option 3</string>
+    <string name="option_four">Option 4</string>
+    <string name="confirm">Confirm</string>
+    <string name="skip">Skip</string>
+    <string name="hint">Hint</string>
+    <string name="share">Share</string>
+    <string name="test_results_easy">Test Results - Easy Level</string>
+    <string name="retake">Retake</string>
+    <string name="share_result">Share\nResult</string>
+    <string name="test_results_normal">Test Results - Normal Level</string>
+
+    <string name="practice_today">Today\'s Practice</string>
+    <string name="alarm_static_text">Now you can set a daily reminder for Aptitude &amp; Logical Reasoning, at your convenient time.</string>
+    <string name="no_alarm">Alarm is not set!</string>
+    <string name="set_alarm">Open Time Picker</string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+    <string name="alarm_set_for">Alarm set for:\u0020</string>
+    <string name="are_you_sure">This time has passed!</string>
+    <string name="alarm_cancelled">Alarm Cancelled!</string>
+    <string name="alarm_settings">Alarm Settings</string>
+    <string name="calendar_menu">Calendar</string>
+
+    <string name="score_zero">Score: 0</string>
+    <string name="correct_zero">Correct: 0</string>
+    <string name="option_a_is_correct">Option A is correct</string>
+    <string name="option_b_is_correct">Option B is correct</string>
+    <string name="option_c_is_correct">Option C is correct</string>
+    <string name="option_d_is_correct">Option D is correct</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+</resources>

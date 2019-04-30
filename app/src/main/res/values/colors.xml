@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00AAFF</color>
+    <color name="colorPrimaryDark">#474E58</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBlue">#848CB7</color>
+    <color name="colorBlueDark">#6D749F</color>
+    <color name="colorRed">#FF3943</color>
+    <color name="colorRedDark">#801B20</color>
+    <color name="colorGreenOne">#3EB959</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorPurple300">#9575CD</color>
+    <color name="colorOrange200">#FFCC80</color>
+    <color name="colorPink">#FF4081</color>
+    <color name="transBlack">#99000000</color>
+    <color name="transWhite">#80FFFFFF</color>
+    <color name="fbColorBlue">#3B5998</color>
+    <color name="twColorBlue">#1DA1F2</color>
+    <color name="youtubeRed">#BD081C</color>
+</resources>

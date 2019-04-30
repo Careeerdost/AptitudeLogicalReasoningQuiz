@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/menu_top"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_aboutUs"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="@string/about_us" />
+        <item
+            android:id="@+id/nav_calendar"
+            android:icon="@drawable/ic_date_range_black_24dp"
+            android:title="@string/calendar_menu" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/alarm_settings" />
+        <item
+            android:id="@+id/nav_privacypolicy"
+            android:icon="@drawable/ic_lock_black_24dp"
+            android:title="@string/privacy_policy" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_help_black_24dp"
+            android:title="@string/help" />
+    </group>
+    <group
+        android:id="@+id/social_media"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_youtubePage"
+            android:icon="@drawable/ic_notifications_active_black_24dp"
+            android:title="@string/sub_yt" />
+        <item
+            android:id="@+id/nav_fbPage"
+            android:icon="@drawable/fbfollow"
+            android:title="@string/like_fb" />
+        <item
+            android:id="@+id/nav_twPage"
+            android:icon="@drawable/twfollow"
+            android:title="@string/follow_tw" />
+    </group>
+    <group
+        android:id="@+id/menu_bottom"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_shareApp"
+            android:icon="@drawable/menu_share_black_24dp"
+            android:title="@string/share_app" />
+        <item
+            android:id="@+id/nav_moreApps"
+            android:icon="@drawable/ic_apps_black_24dp"
+            android:title="@string/more_apps" />
+        <item
+            android:id="@+id/nav_feedback"
+            android:icon="@drawable/ic_stars_black_24dp"
+            android:title="@string/feedback" />
+        <item
+            android:id="@+id/nav_update"
+            android:icon="@drawable/ic_system_update_black_24dp"
+            android:title="@string/update_app" />
+    </group>
+</menu>

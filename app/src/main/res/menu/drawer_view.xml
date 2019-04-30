@@ -11,14 +11,6 @@
             android:icon="@drawable/ic_info_black_24dp"
             android:title="@string/about_us" />
         <item
-            android:id="@+id/nav_calendar"
-            android:icon="@drawable/ic_date_range_black_24dp"
-            android:title="@string/calendar_menu" />
-        <item
-            android:id="@+id/nav_setting"
-            android:icon="@drawable/ic_settings_black_24dp"
-            android:title="@string/alarm_settings" />
-        <item
             android:id="@+id/nav_privacypolicy"
             android:icon="@drawable/ic_lock_black_24dp"
             android:title="@string/privacy_policy" />
@@ -50,14 +42,6 @@
             android:id="@+id/nav_shareApp"
             android:icon="@drawable/menu_share_black_24dp"
             android:title="@string/share_app" />
-        <item
-            android:id="@+id/nav_moreApps"
-            android:icon="@drawable/ic_apps_black_24dp"
-            android:title="@string/more_apps" />
-        <item
-            android:id="@+id/nav_feedback"
-            android:icon="@drawable/ic_stars_black_24dp"
-            android:title="@string/feedback" />
         <item
             android:id="@+id/nav_update"
             android:icon="@drawable/ic_system_update_black_24dp"

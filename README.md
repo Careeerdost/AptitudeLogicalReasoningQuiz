@@ -1,4 +1,4 @@
-# AptitudeLogicalReasoningQuiz
+# Aptitude and Logical Reasoning Quiz
 This aptitude cum logical reasoning test / quiz app is designed as a preparation tool to help candidates who want to start preparing for various competitive exams and guide the people to solve Aptitude questions or Logical Reasoning questions.
 
 Aptitude test preparation & aptitude tricks are good online exam preparation tool for anyone to be placed in reputed organizations. Through this critical reasoning app, you can easily improve your analyzing skills, critical thinking skills, and logical thinking skills in person to excel in your passionate career.

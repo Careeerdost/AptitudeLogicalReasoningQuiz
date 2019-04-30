@@ -34,14 +34,10 @@ import in.careerdost.quiznew.recycler_activity.recycler_formulae;
 public class start_quiz extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
     public static final String LOG_TAG = "LRTest";
-
     public static final String EASY_CATEGORY = "easyCategory";
-    public static final String NORMAL_CATEGORY = "normalCategory";
-
-    private Spinner spinnerCatEasy, spinnerCatNormal;
-    Button btnStartQuizEasy, btnStartQuizNormal;
-    ImageView videoLibIcon, solExamplesIcon, archivedIcon, impFormulaeIcon;
-
+    private Spinner spinnerCatEasy;
+    Button btnStartQuizEasy;
+    ImageView solExamplesIcon, archivedIcon, impFormulaeIcon;
     InterstitialAd interstitialAd = null;
 
     @Override
@@ -66,8 +62,6 @@ public class start_quiz extends AppCompatActivity implements NavigationView.OnNa
         btnStartQuizNormal = findViewById(R.id.btnStartQuizNormal);
         spinnerCatEasy = findViewById(R.id.spinner_category);
         spinnerCatNormal = findViewById(R.id.spinner_category_normal);
-
-        videoLibIcon = findViewById(R.id.videoLibIcon);
         solExamplesIcon = findViewById(R.id.solExamplesIcon);
         archivedIcon = findViewById(R.id.archivedIcon);
         impFormulaeIcon = findViewById(R.id.impFormulaeIcon);
